@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 With your help, we can create a comprehensive reference tool that will help millions of people who are learning to code for years to come. 💛
 
@@ -651,3 +651,4 @@ You haven't actually added any content so I will be closing this PR and marking 
 
 Feel free to open another PR though! 👍
 ```
+nhgfhghkl
